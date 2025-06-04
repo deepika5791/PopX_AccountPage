@@ -8,8 +8,8 @@
 
 .form-container_1 {
   border: 1px solid grey;
-  width: 20%;
-  height: 80vh;
+  width: 350px; /* Fixed width */
+  height: 700px;
   margin-top: 40px;
   display: flex;
   justify-content: center;
@@ -23,7 +23,7 @@
 .Login_btn {
   background-color: #6c25ff;
   color: white;
-  width: 290px;
+  width: 300px;
   height: 45px;
   font-size: 18px;
   border-radius: 5px;
