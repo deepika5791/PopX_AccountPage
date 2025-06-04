@@ -1,5 +1,5 @@
 import React from "react";
-import Frontpage from "./Components/frontpage";
+import Frontpage from "./Components/Frontpage";
 import CreateNewAccount from "./Pages/CreateNewAcc/CreateNewAccount";
 import AccountSetting from "./Pages/AccountSettingPage/AccountSetting";
 import LoginPage from "./Pages/LoginPage/LoginPage";
