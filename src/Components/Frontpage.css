@@ -1,0 +1,55 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.Main_Container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+.Container {
+  border: 1px solid #e1e1e1;
+  width: 20%;
+  height: 80vh;
+  margin-top: 40px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.Welcome_Page {
+  margin-top: 200px;
+  padding-right: 25px;
+}
+.heading {
+  font-size: 30px;
+  font-family: sans-serif;
+}
+.para {
+  margin-top: 3px;
+  font-size: 18px;
+  color: #74777b;
+  font-family: sans-serif;
+}
+.Account_btn {
+  background-color: #6c25ff;
+  color: white;
+  width: 290px;
+  height: 45px;
+  font-size: 18px;
+  border-radius: 5px;
+  border-style: none;
+  font-family: sans-serif;
+}
+.Registration_btn {
+  background-color: #cebafb;
+  color: black;
+  width: 290px;
+  height: 45px;
+  font-size: 18px;
+  border-radius: 5px;
+  border-style: none;
+  font-family: sans-serif;
+}

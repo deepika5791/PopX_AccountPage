@@ -1,0 +1,63 @@
+.createAccount_wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.form-container {
+  border: 1px solid #e1e1e1;
+  width: 20%;
+  height: 80vh;
+  margin-top: 40px;
+  display: flex;
+  justify-content: center;
+  padding: 25px;
+}
+
+.custom-fieldset {
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  padding: 10px;
+  margin-bottom: 20px;
+  width: 300px;
+  height: 45px;
+  margin-top: 20px;
+}
+
+legend {
+  font-size: 14px;
+  color: #6c25ff;
+  padding: 0 5px;
+}
+
+.required {
+  color: red;
+}
+
+input {
+  border: none;
+  outline: none;
+  font-size: 14px;
+}
+.custom-radio-group {
+  margin-top: 20px;
+  font-size: 16px;
+  line-height: 32px;
+}
+
+.custom-radio-group label {
+  margin-right: 20px;
+  line-height: 32px;
+}
+
+.Create_btn {
+  background-color: #6c25ff;
+  color: white;
+  width: 290px;
+  height: 45px;
+  font-size: 18px;
+  border-radius: 5px;
+  border-style: none;
+  font-family: sans-serif;
+}

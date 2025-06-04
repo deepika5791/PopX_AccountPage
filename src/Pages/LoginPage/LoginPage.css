@@ -1,0 +1,32 @@
+.login-wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #f9f9f9;
+}
+
+.form-container_1 {
+  border: 1px solid grey;
+  width: 20%;
+  height: 80vh;
+  margin-top: 40px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 5px;
+}
+
+.para {
+  color: #74777b;
+}
+.Login_btn {
+  background-color: #6c25ff;
+  color: white;
+  width: 290px;
+  height: 45px;
+  font-size: 18px;
+  border-radius: 5px;
+  border-style: none;
+  font-family: sans-serif;
+}
