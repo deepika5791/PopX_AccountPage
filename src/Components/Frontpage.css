@@ -9,21 +9,11 @@
   align-items: center;
   height: 100vh;
 }
-/* .Container {
-  border: 1px solid #e1e1e1;
-  width: 350px;
-  height: 700px;
-  margin-top: 40px;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-} */
 
 .Container {
   border: 1px solid #e1e1e1;
-  width: 350px; /* Fixed width */
-  height: 700px; /* Fixed height */
+  width: 350px;
+  height: 700px;
   margin-top: 40px;
   display: flex;
   flex-direction: column;
